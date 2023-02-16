@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af17f211bb022b3448da429ac8a00f85, type: 3}
+  m_Name: BuildingConfig
+  m_EditorClassIdentifier: 
+  _upgradeStructs:
+  - level: 1
+    Prefab: {fileID: 5641625546533585634, guid: 5d116028f861fb247a4a223643928222, type: 3}
+  - level: 2
+    Prefab: {fileID: 6193432496030237184, guid: 769015d85540af9429be2c8e078eb4e1, type: 3}
+  - level: 3
+    Prefab: {fileID: 4427404152555372061, guid: 077ab3a952f9cae429f582c80d4f1ad6, type: 3}
